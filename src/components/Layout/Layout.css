@@ -1,0 +1,10 @@
+.header .logo {
+    float: left;
+    color: white;
+    font-size: 24px;
+}
+
+.main {
+    height: calc(100vh - 64px);
+    padding: 0 24px 24px;
+}
